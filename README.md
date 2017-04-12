@@ -1,3 +1,3 @@
 # Computer-Organization-Labs
 Computer Organization Course @NCTU 
-Taught by Kai-Chiang Wu
+Taught by Prof.Kai-Chiang Wu
